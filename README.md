@@ -1,7 +1,7 @@
 # JavaFragment
 Personal fragmentary Java code
 
-/* Exercise03 
+/* Exercise04 
  * 模仿双色球玩法
  * 
  * 红色球 1-33号 开奖出6个球
@@ -12,7 +12,7 @@ Personal fragmentary Java code
  * */
  
  
- /* Exercise04 
+ /* Exercise03 
  * 实现通过四个售票点发售某日某次列车的100张车票，
  * 一个售票点用一个线程表示。
  * 
